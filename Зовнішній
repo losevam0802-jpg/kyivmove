@@ -17,51 +17,18 @@ body {
   margin-bottom: 20px;
 }
 
-.btn {
+.section {
+  padding: 20px 15px;
+}
+
+.button {
   display: block;
-  margin: 15px auto;
-  max-width: 320px;
-  padding: 14px;
-  background: #ff9800;
-  color: #000;
-  text-decoration: none;
-  font-weight: bold;
-  border-radius: 6px;
-}
-
-.messengers a {
-  margin: 0 8px;
-  color: #fff;
-  text-decoration: underline;
-}
-
-section {
-  padding: 25px 15px;
-  background: #fff;
-  margin-bottom: 10px;
-}
-
-h2 {
-  text-align: center;
-  margin-bottom: 20px;
-}
-
-.service {
-  margin-bottom: 15px;
-}
-
-.why ul {
-  padding-left: 20px;
-}
-
-.contacts a {
-  font-weight: bold;
-  text-decoration: none;
-  color: #1f2933;
-}
-
-footer {
-  text-align: center;
+  margin: 10px auto;
   padding: 15px;
-  background: #eee;
+  background: #2563eb;
+  color: #fff;
+  text-decoration: none;
+  border-radius: 8px;
+  text-align: center;
+  max-width: 300px;
 }
